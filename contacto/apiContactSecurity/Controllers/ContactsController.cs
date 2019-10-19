@@ -12,7 +12,7 @@ using apiContactSecurity.Models;
 
 namespace apiContactSecurity.Controllers
 {
-    public class ContactsController : ApiController
+     public class ContactsController : ApiController
     {
         private DataContext db = new DataContext();
 
